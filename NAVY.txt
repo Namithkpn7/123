@@ -1,0 +1,63 @@
+A-VATS
+
+Team Members :- 1. A Namith Krishnan
+                                   2. Amalraj K
+                                   3. Mohammed Yaseen
+                                   4. Vishnu Premanandan
+
+
+Team Name :-   NAVY
+
+Introduction:-  
+                  
+                     Automized Vaccination Aid & Tracking System is a fast and efficient system that helps to create, track and maintain a database of the recipients.It also automizes the process of vaccine filling in syringes thus making the vaccination process faster.  
+
+System Overview:
+Computing : 
+
+Using retinal scan the recipient identity is confirmed and the data is saved into the cloud which includes the program undertaken .Since the data is saved into the cloud it is possible to access the same anywhere at any time. Thereby it is possible to keep an excellent track record in the future and is able to share program history to the medical officer if required.
+
+Container :
+
+The Container is based on the shape of an ATM  machine which houses all the parts and keeps vaccines at optimal temperature and can be modified according to the requirement of the particular vaccine. Aluminium with reinforced steel is the preferred framework material. Reinforcement provides a strong and durable structure. Aluminium has added benefits like corrosion resistance, termite resistance etc.
+
+
+
+
+
+Retina Scanner:
+
+The Retina scanner is situated in the topmost region of the machine.It is used for comparing the biometrics with the one in the ID card used by the recipient. Therefore it ensures that the person taking the vaccine is the same person as in the ID card and thus the details are documented correctly to the cloud. 
+
+
+ Atomizer :
+
+Atomizer is used for spraying spirit into hand so that it provides proper sterilisation so that recipients get vaccinated safely. After biometric comparison, slots will be opened up where recipients put their hand into it and get properly sterilized. Only after sterilisation the recipient  is guided to meet  the doctor.
+
+
+Syringe Dispenser:
+
+After the biometrics comparison and the sterilisation using the Atomizer, the user will have the provision to receive the syringe along with the vaccine filled cartridge which can be used in the syringe gun used by the doctor which ensures minimal contact between the recipient and the doctor.
+
+
+Needle Disposer:
+
+After the vaccination using the syringe gun is done, the needle is disposed of into a small portable device called SANDD Mini.When it is  activated, the device uses the arc of electricity to heat the needle to about 4,000 degrees within three seconds. Any pieces of incinerated metal are dropped into a chamber below. Then the syringe is pulled out, the needle is completely incinerated, leaving no sharp portions. The heat also kills off any harmful pathogens, and the incinerated needle creates a vacuum in the syringe, meaning nothing left inside can escape.Thus it is completely safe to be disposed later.
+
+
+Conclusion:
+
+It helps to maintain the database of the vaccine recipients and hence also helps to maintain the vaccine inventory. It also has a two step security verification system that ensures the authenticity of the recipient. The machine has a vaccine cum syringe dispenser along with a hand sterilizer. It is also equipped with a syringe destroyer and syringe collector for the safe disposal of the used medical syringes.Thus it helps to prevent fraud and illicit selling of the drugs.
+
+
+ 
+
+
+
+
+
+
+
+
+
+
